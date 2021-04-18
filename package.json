@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/IuliiaKalenyk/Webpack-attempt-two/issues"
   },
-  "homepage": "https://github.com/IuliiaKalenyk/Webpack-attempt-two#readme"
+  "homepage": "https://github.com/IuliiaKalenyk/Webpack-attempt-two#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.3",
+    "babel-preset-es2015": "^6.24.1"
+  }
 }
